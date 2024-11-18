@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+accelerate
+transformers
+evaluate
+matplotlib
+gluonts
+datasets
