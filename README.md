@@ -8,7 +8,7 @@ To get started, first clone the repository and ensure you have Python installed 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/time_series_c02_seed.git
+    git clone https://github.com/nachosemu/time_series_c02_seed.git
     cd time_series_c02_seed
     ```
 
